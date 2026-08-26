@@ -36,6 +36,7 @@ Projelerdeki veri seti İHA bakış açısından çekilmiş görsellerden derlen
   - `0`: `fire` (Yangın / Alev)
   - `1`: `person` (İnsan)
 
+- **Dataset:** Projede kullanılan aerial/drone veri setine [ Roboflow Bağlantısı](https://universe.roboflow.com/persontrain/person-and-fire-detection) üzerinden erişebilirsiniz.
 ---
 
 ## Gereksinimler ve Kurulum
